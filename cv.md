@@ -11,7 +11,7 @@
 * PHP
 * GIT
 ### code example:
-for example how i realize 5 kyu task on codewars
+for example how i realize 5 kyu task on codewars\
 ``function landPerimeter(arr) {``\
 ``let countSides = 0;``\
 ``for (let i = 0; i < arr.length; i++) {``\
@@ -41,7 +41,7 @@ for example how i realize 5 kyu task on codewars
 ``  }``\
 ``}``\
 ``return "Total land perimeter: "+countSides;``\
-``}``\
+``}``
 ### Experience:
 During education received many professional skills:
 * Make layout of the site
@@ -52,5 +52,5 @@ NOVOPOLSKY STATE AGRICULTURE ECONOMIC
 COLLEGE
 Technician Programmer Sep 2020 - Jun 2024
 ### Languages:
-English - B1
+English - B1\
 Russian - Native speaker
