@@ -1,1 +1,1 @@
-https://okyxxxf.github.io/rsschool-cv/index.html
+https://okyxxxf.github.io/rsschool-cv/
